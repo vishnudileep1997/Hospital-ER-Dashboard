@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Dashboard](Images1/Hospital-Emergency-Room-Dashboard.png)
+
 # Hospital Emergency Room Dashboard
 
 ## Project Overview
